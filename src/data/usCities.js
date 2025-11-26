@@ -1,0 +1,121 @@
+// Top 100+ U.S. Travel Cities (City + State Code)
+// Ideal for offline suggestions and preventing API overuse
+
+export const usCities = [
+  { city: "New York City", state: "NY" },
+  { city: "Los Angeles", state: "CA" },
+  { city: "Chicago", state: "IL" },
+  { city: "Houston", state: "TX" },
+  { city: "Phoenix", state: "AZ" },
+  { city: "Philadelphia", state: "PA" },
+  { city: "San Antonio", state: "TX" },
+  { city: "San Diego", state: "CA" },
+  { city: "Dallas", state: "TX" },
+  { city: "San Jose", state: "CA" },
+
+  { city: "Austin", state: "TX" },
+  { city: "Jacksonville", state: "FL" },
+  { city: "Fort Worth", state: "TX" },
+  { city: "Columbus", state: "OH" },
+  { city: "Charlotte", state: "NC" },
+
+  { city: "San Francisco", state: "CA" },
+  { city: "Indianapolis", state: "IN" },
+  { city: "Seattle", state: "WA" },
+  { city: "Denver", state: "CO" },
+  { city: "Washington", state: "DC" },
+
+  { city: "Boston", state: "MA" },
+  { city: "El Paso", state: "TX" },
+  { city: "Nashville", state: "TN" },
+  { city: "Detroit", state: "MI" },
+  { city: "Oklahoma City", state: "OK" },
+
+  { city: "Portland", state: "OR" },
+  { city: "Las Vegas", state: "NV" },
+  { city: "Memphis", state: "TN" },
+  { city: "Louisville", state: "KY" },
+  { city: "Baltimore", state: "MD" },
+
+  { city: "Milwaukee", state: "WI" },
+  { city: "Albuquerque", state: "NM" },
+  { city: "Tucson", state: "AZ" },
+  { city: "Fresno", state: "CA" },
+  { city: "Sacramento", state: "CA" },
+
+  { city: "Kansas City", state: "MO" },
+  { city: "Mesa", state: "AZ" },
+  { city: "Atlanta", state: "GA" },
+  { city: "Omaha", state: "NE" },
+  { city: "Colorado Springs", state: "CO" },
+
+  { city: "Raleigh", state: "NC" },
+  { city: "Long Beach", state: "CA" },
+  { city: "Virginia Beach", state: "VA" },
+  { city: "Miami", state: "FL" },
+  { city: "Oakland", state: "CA" },
+
+  { city: "Minneapolis", state: "MN" },
+  { city: "Tulsa", state: "OK" },
+  { city: "Tampa", state: "FL" },
+  { city: "Arlington", state: "TX" },
+  { city: "Honolulu", state: "HI" },
+
+  { city: "San Juan", state: "PR" },
+  { city: "Anchorage", state: "AK" },
+  { city: "Salt Lake City", state: "UT" },
+  { city: "Orlando", state: "FL" },
+  { city: "St. Louis", state: "MO" },
+
+  { city: "Pittsburgh", state: "PA" },
+  { city: "Cincinnati", state: "OH" },
+  { city: "New Orleans", state: "LA" },
+  { city: "Buffalo", state: "NY" },
+  { city: "Reno", state: "NV" },
+
+  { city: "Boise", state: "ID" },
+  { city: "Madison", state: "WI" },
+  { city: "Knoxville", state: "TN" },
+  { city: "Richmond", state: "VA" },
+  { city: "Baton Rouge", state: "LA" },
+
+  { city: "Des Moines", state: "IA" },
+  { city: "Birmingham", state: "AL" },
+  { city: "Greensboro", state: "NC" },
+  { city: "Chandler", state: "AZ" },
+  { city: "Scottsdale", state: "AZ" },
+
+  { city: "Chula Vista", state: "CA" },
+  { city: "Laredo", state: "TX" },
+  { city: "Durham", state: "NC" },
+  { city: "Lubbock", state: "TX" },
+  { city: "Winston-Salem", state: "NC" },
+
+  { city: "Garland", state: "TX" },
+  { city: "Hialeah", state: "FL" },
+  { city: "Chesapeake", state: "VA" },
+  { city: "Glendale", state: "AZ" },
+  { city: "North Las Vegas", state: "NV" },
+
+  { city: "Gilbert", state: "AZ" },
+  { city: "Wichita", state: "KS" },
+  { city: "Toledo", state: "OH" },
+  { city: "St. Paul", state: "MN" },
+  { city: "Lincoln", state: "NE" },
+
+  { city: "Corpus Christi", state: "TX" },
+  { city: "Irvine", state: "CA" },
+  { city: "Kissimmee", state: "FL" },
+  { city: "Key West", state: "FL" },
+
+  { city: "Santa Monica", state: "CA" },
+  { city: "Anaheim", state: "CA" },
+  { city: "Santa Barbara", state: "CA" },
+  { city: "Palm Springs", state: "CA" },
+
+  { city: "Big Sur", state: "CA" },
+  { city: "Sedona", state: "AZ" },
+  { city: "Charleston", state: "SC" },
+  { city: "Savannah", state: "GA" },
+  { city: "Aspen", state: "CO" },
+];

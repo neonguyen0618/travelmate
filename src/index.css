@@ -1,0 +1,58 @@
+/* ===========================================
+   Global Theme Variables (CSS Custom Props)
+   =========================================== */
+
+:root {
+  --bg-primary: #ffffff;
+  --bg-secondary: #f7f7f7;
+  --text-primary: #1e293b;
+  --accent: #3b82f6;
+}
+
+/* Ocean Blue */
+[data-theme="ocean"] {
+  --bg-primary: #e0f2fe;
+  --bg-secondary: #bae6fd;
+  --text-primary: #0c4a6e;
+  --accent: #0284c7;
+}
+
+/* Emerald Green */
+[data-theme="emerald"] {
+  --bg-primary: #ecfdf5;
+  --bg-secondary: #d1fae5;
+  --text-primary: #064e3b;
+  --accent: #10b981;
+}
+
+/* Sunset Orange */
+[data-theme="sunset"] {
+  --bg-primary: #fff7ed;
+  --bg-secondary: #ffedd5;
+  --text-primary: #7c2d12;
+  --accent: #fb923c;
+}
+
+/* Dark Mode */
+[data-theme="dark"] {
+  --bg-primary: #0f172a;
+  --bg-secondary: #1e293b;
+  --text-primary: #f1f5f9;
+  --accent: #38bdf8;
+}
+
+/* Minimal Light */
+[data-theme="light"] {
+  --bg-primary: #ffffff;
+  --bg-secondary: #f3f4f6;
+  --text-primary: #111827;
+  --accent: #6366f1;
+}
+
+/* ===========================================
+   Tailwind Layers
+   =========================================== */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
